@@ -1,2 +1,6 @@
-.youtube.com
-www.youtube.com
+# Title: list by Jacques Mahe
+
+0.0.0.0 .youtube.com
+0.0.0.0 www.youtube.com
+
+# That's all!
